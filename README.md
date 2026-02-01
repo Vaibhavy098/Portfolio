@@ -384,7 +384,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This repository contains my personal portfolio website showcasing my projects, skills, education, and experience as a Computer Science undergraduate and aspiring Software Developer.
 
 ## 🔗 Live Portfolio
-👉 https://YOUR_NETLIFY_URL_HERE
+👉 https://vaibhavy098-portfolio.netlify.app/
 
 ## 🛠️ Tech Stack
 - React.js
