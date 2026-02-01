@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "B.Tech CSE student passionate about software development and problem-solving."
   ),
-  resumeLink:
-    "resume.pdf", // Set to empty to hide the button
+  resumeLink: "resume.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -46,12 +45,15 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Tech-enthusiastic developer exploring software engineering, web development, and real-world problem solving.",
+  subTitle:
+    "Tech-enthusiastic developer exploring software engineering, web development, and real-world problem solving.",
   skills: [
     emoji(
       "⚡ Strong foundation in frontend development using HTML5, CSS3, JavaScript, and responsive design principles"
     ),
-    emoji("⚡ Solid understanding of Data Structures and Algorithms with hands-on problem solving in C++"),
+    emoji(
+      "⚡ Solid understanding of Data Structures and Algorithms with hands-on problem solving in C++"
+    ),
     emoji(
       "⚡ Familiar with object-oriented programming concepts and competitive coding practices"
     )
@@ -109,7 +111,8 @@ const educationInfo = {
     {
       schoolName: "Pranveer Singh Institute of Technology",
       logo: require("./assets/images/psitLogo.png"),
-      subHeader: "Bachelor of Technology in Computer Science and Engineering with CGPA - 8.48",
+      subHeader:
+        "Bachelor of Technology in Computer Science and Engineering with CGPA - 8.48",
       duration: "December 2022 - July 2026",
       desc: "Undergraduate student with a strong focus on software development, data structures, and problem-solving.",
       descBullets: [
@@ -117,7 +120,7 @@ const educationInfo = {
         "Actively building academic and personal projects to apply theoretical concepts in real-world scenarios",
         "Participated in coding practice and technical skill development through online platforms and coursework"
       ]
-    },
+    }
     // {
     //   schoolName: "Stanford University",
     //   logo: require("./assets/images/stanfordLogo.png"),
@@ -151,8 +154,8 @@ const techStack = {
       progressPercentage: "70%"
     }
   ],
-// Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
-  displayCodersrank: true 
+  // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true
 };
 
 const workExperiences = {
@@ -184,7 +187,8 @@ const openSource = {
 };
 const bigProjects = {
   title: "Projects",
-  subtitle: "Academic and personal projects focused on software development and applied problem solving",
+  subtitle:
+    "Academic and personal projects focused on software development and applied problem solving",
   projects: [
     {
       image: require("./assets/images/asdLogo.jpg"), // add a simple AI/ML icon
@@ -310,7 +314,6 @@ const achievementSection = {
   ],
   display: true
 };
-
 
 // // Blogs Section
 

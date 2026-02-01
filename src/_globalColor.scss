@@ -1,5 +1,5 @@
-// /* Change colors in this file to style to your needs on a global level. 
-// Certain colors are used for different and multiply types of elements. 
+// /* Change colors in this file to style to your needs on a global level.
+// Certain colors are used for different and multiply types of elements.
 // For greater control over colors visit each components .scss file. */
 
 // // button colors
@@ -89,7 +89,6 @@
 // $instagram: #c13584;
 // $kaggle: #20beff;
 
-
 /* Global color configuration file
    Change colors here to update the theme across the website
    Professional, recruiter-friendly color palette
@@ -98,53 +97,53 @@
 /* =======================
    BUTTON COLORS
    ======================= */
-$buttonColor: #1E40AF;        // Deep blue
-$buttonHover: #2563EB;        // Lighter blue
-$topButtonHover: #0F172A;     // Dark slate
+$buttonColor: #1e40af; // Deep blue
+$buttonHover: #2563eb; // Lighter blue
+$topButtonHover: #0f172a; // Dark slate
 
 /* =======================
    TEXT COLORS (LIGHT THEME)
    ======================= */
-$titleColor: #0F172A;         // Dark slate (headings)
-$textColor: #1E293B;          // Main text
-$subTitle: #475569;           // Muted text
+$titleColor: #0f172a; // Dark slate (headings)
+$textColor: #1e293b; // Main text
+$subTitle: #475569; // Muted text
 $cardSubtitle: #475569;
-$talkCardSubTitle: #64748B;
-$blogCardTitleColor: #0F172A;
+$talkCardSubTitle: #64748b;
+$blogCardTitleColor: #0f172a;
 
 /* =======================
    TEXT COLORS (DARK THEME)
    ======================= */
-$textColorDark: #FFFFFF;
+$textColorDark: #ffffff;
 
 /* =======================
    TOGGLE SWITCH COLORS
    ======================= */
-$toggleCheck: #1E40AF;
-$toggleSwitchSliderBG: #CBD5E1;
+$toggleCheck: #1e40af;
+$toggleSwitchSliderBG: #cbd5e1;
 
 /* =======================
    GITHUB / REPO COLORS
    ======================= */
-$githubRepoCardLanguageColorBG: #1E40AF;
+$githubRepoCardLanguageColorBG: #1e40af;
 $githubRepoCardColor: rgb(88, 96, 105);
 $githubRepoCardRepoCardStatsColor: rgb(106, 115, 125);
 $githubRepoCardRepoNameColor: rgb(36, 41, 46);
-$githubProfileCardLocationTS: #E2E8F0;
-$githubProfileCardBorder: #2563EB;
+$githubProfileCardLocationTS: #e2e8f0;
+$githubProfileCardBorder: #2563eb;
 
 /* =======================
    BACKGROUND COLORS (LIGHT)
    ======================= */
-$lightBackground1: #FFFFFF;
-$lightBackground2: #F8FAFC;
-$lightBackground3: #F1F5F9;
+$lightBackground1: #ffffff;
+$lightBackground2: #f8fafc;
+$lightBackground3: #f1f5f9;
 $blogCardContainerColor: #334155;
 
 /* =======================
    BACKGROUND COLORS (DARK)
    ======================= */
-$darkBackground: #171C28;
+$darkBackground: #171c28;
 
 /* =======================
    BOX SHADOWS (LIGHT)
@@ -156,8 +155,8 @@ $lightBoxShadowDarker: rgba(0, 0, 0, 0.3);
 /* =======================
    BOX SHADOWS (DARK)
    ======================= */
-$darkBoxShadow: #D9DBDF;
-$darkBoxShadow2: #FFFFFF;
+$darkBoxShadow: #d9dbdf;
+$darkBoxShadow2: #ffffff;
 
 /* =======================
    LINEAR GRADIENTS
@@ -175,30 +174,30 @@ $experienceCardBannerLG: linear-gradient(
 /* =======================
    BORDERS & PROGRESS BARS
    ======================= */
-$progressBarBackground: #E2E8F0;
+$progressBarBackground: #e2e8f0;
 $lightBorder1: rgba(203, 213, 225, 0.6);
-$educationCardBorder: #2563EB;
+$educationCardBorder: #2563eb;
 
 /* =======================
    HOVER EFFECTS
    ======================= */
 $achievementCertificateCardHoverDark: rgba(255, 255, 255, 0.2);
 $blogCardHoverSmallColor: rgba(255, 255, 255, 0.85);
-$headerHoverBG: #F1F5F9;
-$contactDetailHoverTS: #94A3B8;
+$headerHoverBG: #f1f5f9;
+$contactDetailHoverTS: #94a3b8;
 
 /* =======================
    MISC BACKGROUNDS
    ======================= */
-$progressBarSpanBG: #2563EB;
+$progressBarSpanBG: #2563eb;
 $iconBackground: #151a21;
-$appHeaderBG: #0F172A;
+$appHeaderBG: #0f172a;
 
 /* =======================
    MISC COLORS
    ======================= */
-$skillsColor: #1E40AF;
-$appLink: #2563EB;
+$skillsColor: #1e40af;
+$appLink: #2563eb;
 
 /* =======================
    SOCIAL MEDIA COLORS
