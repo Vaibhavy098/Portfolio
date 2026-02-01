@@ -410,12 +410,6 @@ This repository contains my personal portfolio website showcasing my projects, s
 - **Real-Time Chat Application**  
   Backend-focused project using Node.js and Express.js for real-time communication.
 
-## 🚀 Getting Started (Local Setup)
-
-```bash
-npm install
-npm start
-
 
 ## 📄 License & Attribution
 
@@ -423,4 +417,14 @@ This portfolio is built using the open-source developerFolio template
 created by Saad Pasta and contributors, and is licensed under GPL-3.0.
 
 The content, customization, styling, and deployment are done by Vaibhav Yadav.
+
+
+## 🚀 Getting Started (Local Setup)
+
+```bash
+npm install
+npm start
+
+
+
 
