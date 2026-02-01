@@ -1,4 +1,4 @@
-# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/saadpasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+<!-- # Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/saadpasta/developerFolio)](https://github.com/saadpasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
@@ -284,6 +284,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<!--
 <table>
   <tbody>
     <tr>
@@ -378,4 +379,48 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
----
+# Vaibhav Yadav – Software Developer Portfolio 🚀
+
+This repository contains my personal portfolio website showcasing my projects, skills, education, and experience as a Computer Science undergraduate and aspiring Software Developer.
+
+## 🔗 Live Portfolio
+👉 https://YOUR_NETLIFY_URL_HERE
+
+## 🛠️ Tech Stack
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3 / SCSS
+- Node.js & Express.js (projects)
+- Python (projects & data-focused work)
+- Git & GitHub
+
+## 📂 Featured Sections
+- About Me
+- Skills & Tech Stack
+- Education
+- Internship Experience
+- Projects (Software & AI-based)
+- Achievements & Certifications
+- Blogs
+
+## 📌 Projects Highlight
+- **AI-Based Autism Spectrum Disorder (ASD) Detection**  
+  Academic project using machine learning and deep learning concepts on video data.
+
+- **Real-Time Chat Application**  
+  Backend-focused project using Node.js and Express.js for real-time communication.
+
+## 🚀 Getting Started (Local Setup)
+
+```bash
+npm install
+npm start
+
+
+## 📄 License & Attribution
+
+This portfolio is built using the open-source developerFolio template  
+created by Saad Pasta and contributors, and is licensed under GPL-3.0.
+
+The content, customization, styling, and deployment are done by Vaibhav Yadav.
+

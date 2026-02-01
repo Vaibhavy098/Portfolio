@@ -1,15 +1,51 @@
+// @import "./globalColor";
+
+// .App {
+//   text-align: center;
+//   width: 100%;
+//   overflow-x: hidden;
+// }
+
+// .App-logo {
+//   height: 40vmin;
+// }
+
+// .App-header {
+//   background-color: $appHeaderBG;
+//   min-height: 100vh;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   font-size: calc(0.625rem + 2vmin);
+//   color: $textColorDark;
+// }
+
+// .App-link {
+//   color: $appLink;
+// }
+
+// .subTitle {
+//   color: $subTitle;
+// }
+
+
 @import "./globalColor";
 
 .App {
   text-align: center;
   width: 100%;
   overflow-x: hidden;
+  background-color: $lightBackground1; // ensures clean white background
 }
 
+/* Logo (if used anywhere) */
 .App-logo {
   height: 40vmin;
+  pointer-events: none;
 }
 
+/* Header section */
 .App-header {
   background-color: $appHeaderBG;
   min-height: 100vh;
@@ -17,14 +53,23 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(0.625rem + 2vmin);
+  font-size: calc(0.75rem + 2vmin);
   color: $textColorDark;
 }
 
+/* Links */
 .App-link {
   color: $appLink;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
 }
 
+.App-link:hover {
+  color: $buttonHover;
+}
+
+/* Subtitle text */
 .subTitle {
   color: $subTitle;
+  font-weight: 400;
 }
